@@ -8,9 +8,9 @@ from email.mime.text import MIMEText
 
 # Function to send email
 def send_email():
-    from_addr = "simran11singh2004@gmail.com"  # Your email address
-    to_addr = "somasingh08892@gmail.com"  # Recipient's email address
-    password = "sim@tan911"  # Your email password
+    from_addr = "s@gmail.com"  # Your email address
+    to_addr = "s@gmail.com"  # Recipient's email address
+    password = "s"  # Your email password
 
     msg = MIMEMultipart()
     msg['From'] = from_addr
